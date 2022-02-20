@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+It's Rinka Wang. Graduated from BIT (Beijing Institute of Technolog).
+
 <!--
 **I-Rinka/I-Rinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,6 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Tools Preferences: 
   - 👨🏻‍💻 Code Editors: <img src="https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=33ADFF"> <img src="https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=FFFFFF&color=019733">
   - ✍️ Writing Tools: <img src="https://img.shields.io/badge/Writing-Notion-informational?style=flat&logo=notion&logoColor=000000&labelColor=FFFFFF&color=000000"> <img src="https://img.shields.io/badge/Writing-OneNote-informational?style=flat&logo=microsoft-onenote&logoColor=000000&labelColor=FFFFFF&color=7719AA">
+---
 - 💬 Ask me about **Delicacies at Beijing and Shenzhen** 🍕🍟🌭 or philosophy🎓 about computer science&technology.
 - 📫 How to reach me: I_Rinka@outlook.com
 ---    
