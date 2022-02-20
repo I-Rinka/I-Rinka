@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-It's Rinka Wang. Graduated from BIT (Beijing Institute of Technolog).
+It's Rinka Wang. Graduated from BIT (Beijing Institute of Technology).
 
 <!--
 **I-Rinka/I-Rinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
