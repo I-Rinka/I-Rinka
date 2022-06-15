@@ -35,5 +35,6 @@ Here are some ideas to get you started:
 A passion and curiosity driven learner.
 
 <div align="center"> 
-  <img src = "https://github-readme-stats.vercel.app/api?username=I-Rinka&show_icons=true&line_height=27&count_private=true" height="200px"/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=I-Rinka&show_icons=true&line_height=27&count_private=true" height="250px"/>
+  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="250px" />
 </div>
