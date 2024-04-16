@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-It's Rinka Wang. Graduated from BIT (Beijing Institute of Technology, 北京理工大学). Now emoloyed by Alibaba (阿里巴巴), the cloud computing company.
+It's Rinka Wang. Graduated from BIT (Beijing Institute of Technology, 北京理工大学). Now employed by Alibaba (阿里巴巴), the cloud computing company.
 
 <!--
 **I-Rinka/I-Rinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
